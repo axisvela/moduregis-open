@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.axisrobo.com/moduregis.plan.v1alpha1.schema.json",
+  "$id": "https://schemas.axisvela.com/moduregis.plan.v1alpha1.schema.json",
   "title": "Moduregis CapabilityPlan Contract v1alpha1",
   "description": "A strict registry definition for a governed enterprise capability plan. Registry lifecycle, publication state, revisions, and approval positions are authoritative Moduregis records and are not mutable fields in this contract. Moduregis governs plans but does not become a planner (ORCHADYN) or a durable workflow engine (RHEOVELA).",
   "type": "object",

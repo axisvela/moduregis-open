@@ -2,7 +2,7 @@
 
 ## Architectural Role
 
-Moduregis is a Capability control plane. It owns declarative Capability assets and control-plane decisions; it routes authorized work to runtime data planes that remain owned by other AxisRobo products.
+Moduregis is a Capability control plane. It owns declarative Capability assets and control-plane decisions; it routes authorized work to runtime data planes that remain owned by other AxisVela products.
 
 ```text
                   +------------------------------+

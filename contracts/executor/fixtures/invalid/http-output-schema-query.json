@@ -1,7 +1,7 @@
 {
   "api_version": "moduregis.io/v1alpha1",
   "kind": "HTTPExecutorAdapter",
-  "adapter_ref": "adapter://axisrobo.http.hr@1.0.0",
+  "adapter_ref": "adapter://axisvela.http.hr@1.0.0",
   "base_url": "https://hr.example.test",
   "grant_delivery": "authorization_header",
   "timeouts": {"connect_ms": 1000, "response_header_ms": 2000, "request_ms": 5000},

@@ -1,6 +1,6 @@
 # MODUREGIS Open
 
-**MODUREGIS** is the AxisRobo Enterprise Capability Platform — the control plane for publishing, discovering, governing, authorizing, invoking, and auditing enterprise capabilities. This is the public-facing repository for the MODUREGIS Open Core (OSS) edition. It contains the project overview, integration guide, versioned contracts, documentation, SDK reference, and links to binary releases. The core implementation lives in a separate repository pending an open-source decision.
+**MODUREGIS** is the AxisVela Enterprise Capability Platform — the control plane for publishing, discovering, governing, authorizing, invoking, and auditing enterprise capabilities. This is the public-facing repository for the MODUREGIS Open Core (OSS) edition. It contains the project overview, integration guide, versioned contracts, documentation, SDK reference, and links to binary releases. The core implementation lives in a separate repository pending an open-source decision.
 
 ## What MODUREGIS Does
 

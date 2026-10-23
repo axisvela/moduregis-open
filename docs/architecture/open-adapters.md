@@ -2,20 +2,20 @@
 
 ## Principle
 
-Moduregis is an open Capability Platform control plane. It integrates engines and infrastructure through stable contracts, whether the provider is an AxisRobo product, an enterprise internal service, or a third-party product.
+Moduregis is an open Capability Platform control plane. It integrates engines and infrastructure through stable contracts, whether the provider is an AxisVela product, an enterprise internal service, or a third-party product.
 
 ```text
 Moduregis control plane
   -> Adapter Manifest
   -> validated adapter port
-  -> AxisRobo or third-party implementation
+  -> AxisVela or third-party implementation
 ```
 
 No adapter receives special authority because of its vendor. Registry lifecycle, publication state, policy truth, approval truth, and Audit Index remain owned by Moduregis and AEGIVELA as defined by their product boundaries.
 
 ## Adapter Kinds
 
-| Kind | AxisRobo example | Third-party example | Moduregis boundary |
+| Kind | AxisVela example | Third-party example | Moduregis boundary |
 |---|---|---|---|
 | `authorization` | AEGIVELA | enterprise PDP/IAM bridge | adapter returns decision context; it does not own Registry state |
 | `planning` | ORCHADYN | external planning engine | adapter returns plan/reference; Moduregis governs Plan usage |
@@ -39,7 +39,7 @@ It deliberately excludes credentials, long-lived tokens, private endpoint config
 
 ## Onboarding and Activation
 
-1. Provider submits a Manifest, whether it is AxisRobo, an internal enterprise team, or a third party.
+1. Provider submits a Manifest, whether it is AxisVela, an internal enterprise team, or a third party.
 2. Moduregis parses it strictly and validates the manifest schema and descriptor identity.
 3. Attestor verifies conformance profile evidence, artifact identity, and the deployment binding.
 4. AEGIVELA authorizes the binding and its permitted scope.

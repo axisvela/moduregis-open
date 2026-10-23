@@ -41,7 +41,7 @@
     "compliance_frameworks": []
   },
   "owner": {"subject_ref": "aegivela://groups/synthetic-integration", "team": "Synthetic Integration"},
-  "executor": {"kind": "http", "ref": "adapter://axisrobo.http.hr@1.0.0", "route_id": "create_employee"},
+  "executor": {"kind": "http", "ref": "adapter://axisvela.http.hr@1.0.0", "route_id": "create_employee"},
   "governance": {
     "risk_level": "L2",
     "policy_set_ref": "aegivela://policy-sets/synthetic-hr-v1",

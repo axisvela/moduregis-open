@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.axisrobo.com/moduregis.intent.v1alpha1.schema.json",
+  "$id": "https://schemas.axisvela.com/moduregis.intent.v1alpha1.schema.json",
   "title": "Moduregis Intent v1alpha1",
   "type": "object",
   "additionalProperties": false,

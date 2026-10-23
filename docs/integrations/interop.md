@@ -33,7 +33,7 @@ For HTTP Catalog requests, `tenant_id` and `actor_id` are derived exclusively by
 | MNEMOVELA | semantic candidates, context/experience summary | published metadata projection, outcome events | MNEMOVELA is never the Registry authority |
 | LIMENORA | executor registration, external call outcome, boundary evidence | authorized external invocation and policy constraints | LIMENORA owns ingress/egress and protocol mediation |
 | Harmovela | coordination event and task correlation | optional domain events and correlation references | Harmovela defines semantics, not a central service |
-| Third-party adapter | manifest-declared capability, evidence, and outcome contracts | immutable Capability version, authorization/context envelope | third parties use the same adapter ports and conformance rules as AxisRobo products |
+| Third-party adapter | manifest-declared capability, evidence, and outcome contracts | immutable Capability version, authorization/context envelope | third parties use the same adapter ports and conformance rules as AxisVela products |
 
 ## Capability Lifecycle Interoperability
 

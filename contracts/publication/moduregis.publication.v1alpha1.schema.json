@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.axisrobo.com/moduregis.publication.v1alpha1.schema.json",
+  "$id": "https://schemas.axisvela.com/moduregis.publication.v1alpha1.schema.json",
   "title": "Moduregis Publication Request v1alpha1",
   "type": "object",
   "additionalProperties": false,

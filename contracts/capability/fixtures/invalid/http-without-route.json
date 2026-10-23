@@ -84,7 +84,7 @@
   },
   "executor": {
     "kind": "http",
-    "ref": "adapter://axisrobo.http.hr@1.0.0"
+    "ref": "adapter://axisvela.http.hr@1.0.0"
   },
   "governance": {
     "risk_level": "L2",

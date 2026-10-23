@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.axisrobo.com/moduregis.capability.v1alpha1.schema.json",
+  "$id": "https://schemas.axisvela.com/moduregis.capability.v1alpha1.schema.json",
   "title": "Moduregis Capability Contract v1alpha1",
   "description": "A strict registry definition for an enterprise capability. Registry lifecycle, publication state, signatures, and attestation results are authoritative Moduregis records and are not mutable fields in this contract.",
   "type": "object",

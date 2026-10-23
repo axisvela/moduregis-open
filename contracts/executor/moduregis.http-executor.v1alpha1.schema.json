@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://schemas.axisrobo.com/moduregis.http-executor.v1alpha1.schema.json",
+  "$id": "https://schemas.axisvela.com/moduregis.http-executor.v1alpha1.schema.json",
   "title": "Moduregis HTTP Executor Adapter Contract v1alpha1",
   "description": "An immutable HTTP executor deployment contract linked to an existing Adapter Manifest. Credentials and bearer tokens are intentionally excluded. Routes are keyed by route ID, structurally enforcing route-ID uniqueness after JSON parsing.",
   "type": "object",

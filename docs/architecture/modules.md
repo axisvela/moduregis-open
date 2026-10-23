@@ -86,4 +86,4 @@ A new module needs all of the following before introduction:
 2. A published input/output contract and error model.
 3. An explicit tenant and audit-context propagation rule.
 4. Contract, domain, integration, and failure-mode tests appropriate to its responsibility.
-5. Confirmation that an existing AxisRobo product does not already own the behavior.
+5. Confirmation that an existing AxisVela product does not already own the behavior.
