@@ -32,6 +32,15 @@ identity/policy   planning   projection   execution          boundary
 
 Moduregis owns Capability identity, version, lifecycle, owner, policy binding, and the cross-system audit index. It integrates AEGIVELA, ORCHADYN, PRAXOVELA, RHEOVELA, MNEMOVELA, LIMENORA, and Harmovela through stable, versioned adapter contracts. It does not implement agent reasoning, durable workflow state, enterprise ingress, memory retrieval, or authorization truth itself.
 
+## Edge and Learning Boundary
+
+MODUREGIS retains immutable capability references and publication governance,
+not AKROVELA local execution journals or DIDACTOVELA datasets and learning lineage.
+Discovery authorizes neither execution nor deployment; a learned-model candidate
+is not a grant or activated runtime artifact. Both new products are unreleased
+`0.1.0` bootstraps, with no functional integration. See the
+[family architecture and boundaries](https://github.com/axisvela/axisvela/blob/main/EDGE-AND-LEARNING-ARCHITECTURE.md).
+
 ## OSS / Enterprise Boundary
 
 | Layer | Open Core (OSS) | Enterprise Edition |

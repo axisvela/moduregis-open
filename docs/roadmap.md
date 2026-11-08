@@ -16,6 +16,14 @@ contracts, API specification, and Go SDK) cover:
 - A fail-closed ORCHADYN planning adapter port; RHEOVELA materialization
   references are declared by Contract and never executed by Moduregis.
 
+## Edge and Learning Scope (2026-11-08)
+
+MODUREGIS retains capability references and publication governance, not AKROVELA
+local journals or DIDACTOVELA datasets and learning lineage. Discovery authorizes
+neither execution nor deployment. Both new products are unreleased `0.1.0`
+bootstraps, with no functional integration or release commitment here. See the
+[family architecture and boundaries](https://github.com/axisvela/axisvela/blob/main/EDGE-AND-LEARNING-ARCHITECTURE.md).
+
 ## Outcome
 
 Moduregis becomes the enterprise control plane for the complete Capability path:
